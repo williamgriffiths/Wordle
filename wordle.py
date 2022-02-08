@@ -44,5 +44,4 @@ for i in range(guesses):
 
 
 if won == False:
-    print("PATHETIC!")
     print("Word was: {}".format(word))
